@@ -1,0 +1,29 @@
+Mat1 = [
+1, 5, 9
+3, 2, 1
+]
+Mat2 = [
+4, 7
+1, 1
+9, 5
+]
+
+(Mat1 += Mat2) addition result:
+invalid addition.
+Mat1 = [
+1, 5, 9
+3, 2, 1
+]
+
+(Mat1 -= Mat2) substraction result:
+invalid substraction.
+Mat1 = [
+1, 5, 9
+3, 2, 1
+]
+
+(Mat1 * Mat2) production result:
+newMat = [
+90, 57
+23, 28
+]

@@ -1,0 +1,86 @@
+TEST BOOLEAN MATRIX
+0 1 
+0 1 
+
+1 1 
+0 1 
+
+0 0 0 1 
+1 0 1 1 
+
+1 1 
+0 1 
+
+0 1 
+0 1 
+
+1 0 1 1 
+1 0 1 1 
+TEST BinaryRelation
+matrix:
+0 0 
+1 1 
+
+set:
+{-150, 136}
+
+136's in degree: 1
+136's out degree: 2
+0 0 
+1 1 
+
+reflexvie: 0
+reflexvie: 0
+irreflexvie: 0
+irreflexvie: 0
+symmetric: 0
+symmetric: 0
+Asymmetric: 0
+Asymmetric: 0
+Antisymmetric: 1
+Antisymmetric: 1
+transitive: 1
+transitive: 1
+Equivalence: 0
+Equivalence: 0
+reflexive closure: 
+1 0 
+1 1 
+reflexvie: 1
+symmetric closure: 
+0 1 
+1 1 
+symmetric: 1
+transitive closure: 
+0 0 
+1 1 
+transitive: 1
+composition: 
+0 0 
+1 1 
+test relation
+matrix1:
+1 
+1 
+
+matrix2:
+0 
+0 
+
+1 
+1 
+
+0 
+0 
+
+0 
+0 
+
+1 1 
+
+0 
+0 
+
+1 
+1 
+

@@ -1,0 +1,26 @@
+Mat1 = [
+3, 3
+9, 9
+]
+Mat2 = [
+1, 1, 1
+4, 4, 4
+5, 5, 5
+]
+
+(Mat1 += Mat2) addition result:
+invalid addition.
+Mat1 = [
+3, 3
+9, 9
+]
+
+(Mat1 -= Mat2) substraction result:
+invalid substraction.
+Mat1 = [
+3, 3
+9, 9
+]
+
+(Mat1 * Mat2) production result:
+invalid multiplication.

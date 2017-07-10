@@ -1,0 +1,21 @@
+Mat1 = [
+1
+]
+Mat2 = [
+3
+]
+
+(Mat1 += Mat2) addition result:
+Mat1 = [
+4
+]
+
+(Mat1 -= Mat2) substraction result:
+Mat1 = [
+1
+]
+
+(Mat1 * Mat2) production result:
+newMat = [
+3
+]

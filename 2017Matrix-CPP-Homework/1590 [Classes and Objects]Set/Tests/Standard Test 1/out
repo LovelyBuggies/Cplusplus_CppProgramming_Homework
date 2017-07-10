@@ -1,0 +1,12 @@
+{}
+is empty set: 1
+append: 1
+append: 0
+{1}
+append: 0
+{1}
+is empty set: 0
+remove: 1
+{}
+remove: 0
+{}

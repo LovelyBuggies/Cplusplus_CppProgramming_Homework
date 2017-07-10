@@ -1,0 +1,64 @@
+4
+linjian0 100
+5
+Dress_Blue 10
+Silk_stockings_Black 10
+Sailor_suit_Blue 10
+Nurse_suit_Blue 10
+Apron_dress_Blue 10
+linjian1 100
+5
+Dress_Blue 10
+Silk_stockings_Hollow 10
+Sailor_suit_Pink 10
+Nurse_suit_Pink 10
+Apron_dress_Pink 10
+linjian2 100
+5
+Dress_Yellow 10
+Silk_stockings_Yellow 10
+Sailor_suit_Yellow 10
+Nurse_suit_Yellow 10
+Apron_dress_Yellow 10
++CLitleSister 100
+5
+Dress_Fleshcolor 10
+Silk_stockings_Fleshcolor 10
+Sailor_suit_Fleshcolor 10
+Nurse_suit_Fleshcolor 10
+Apron_dress_Fleshcolor 10
+3 d
+0
+2 b
+Apron_dress_Fleshcolor 15 0
+3 b
+Silk_stockings_Fleshcolor 20 0
+1 b
+Dress_Blue 10 3
+1 b
+Silk_stockings_Black 18 3
+0 d
+3
+1 s
+2 Suppose there is a sentence
+2 d
+1
+0 b
+Nurse_suit_Yellow 19 2
+3 b
+Apron_dress_Fleshcolor 19 0
+0 d
+3
+3 d
+2
+1 b
+Apron_dress_Yellow 11 3
+2 b
+Silk_stockings_Yellow 9 0
+2 b
+Nurse_suit_Pink 17 0
+1 d
+2
+2 s
+0 Suppose there is a sentence
+-1

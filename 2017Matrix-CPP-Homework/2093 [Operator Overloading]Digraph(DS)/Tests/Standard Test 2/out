@@ -1,0 +1,47 @@
+TEST BOOLEAN MATRIX
+1 1 
+1 1 
+
+1 1 
+0 0 
+
+0 0 1 1 
+1 1 0 0 
+
+1 1 
+1 1 
+
+1 1 
+0 0 
+
+1 1 1 1 
+1 1 1 1 
+TEST DIGRAPH
+matrix:
+0 0 
+1 0 
+
+set:
+{76, 155}
+
+155's in degree: 0
+76's out degree: 0
+0 0 
+1 0 
+
+reflexvie: 0
+reflexvie: 0
+irreflexvie: 1
+irreflexvie: 1
+symmetric: 0
+symmetric: 0
+Asymmetric: 1
+Asymmetric: 1
+Antisymmetric: 1
+Antisymmetric: 1
+transitive: 1
+transitive: 1
+test ProductSet
+{162, 302, -193, 64}
+{226}
+{(226,226),(302,226),(-193,226),(64,226)}

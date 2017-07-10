@@ -1,0 +1,154 @@
+Test Allocator: allocate
+Test Allocator: deallocate
+Test Constructor1:
+Test Allocator: allocate
+Size: 0
+Test Allocator: deallocate
+Test Constructor2 and operator[]:
+Test Allocator: allocate
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Size: 6
+Content: 6 6
+Content after change: -9996 6
+Test Constructor3 and iterators, including begin(), end():
+Test Allocator: allocate
+Test Allocator: Construct, value: -9996
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Destroy, value: -9996
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: deallocate
+Content: -9996 6 6 6 6 6
+Test Constructor4:
+Test Allocator: allocate
+Test Allocator: Construct, value: 0
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Destroy, value: 0
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: deallocate
+Content: 0 6 6 6 6 6
+Test operator=:
+Test Allocator: allocate
+Test Allocator: Construct, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: deallocate
+Test Allocator: allocate
+Test Allocator: Construct, value: 0
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Construct, value: 6
+Test Allocator: Destroy, value: 0
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: deallocate
+Content: 0 6 6 6 6 6
+Test resize1:
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 6
+Content: 0 6
+Test resize2:
+Test Allocator: allocate
+Test Allocator: Construct, value: 0
+Test Allocator: Destroy, value: 0
+Test Allocator: Construct, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: deallocate
+Test Allocator: Construct, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Construct, value: 8
+Content: 0 6 8 8 8 8 8 8
+Test reserve and capacity:
+Test Allocator: allocate
+Test Allocator: Construct, value: 0
+Test Allocator: Destroy, value: 0
+Test Allocator: Construct, value: 6
+Test Allocator: Destroy, value: 6
+Test Allocator: Construct, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Construct, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: deallocate
+Capacity: 33
+Size: 8
+Capacity: 33
+Size: 8
+Test clear and empty:
+False
+Test Allocator: Destroy, value: 0
+Test Allocator: Destroy, value: 6
+Test Allocator: Destroy, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Destroy, value: 8
+Test Allocator: Destroy, value: 8
+True
+Capcaity: 33
+Size: 0
+Test assign:
+Test Allocator: Construct, value: 1
+Test Allocator: Construct, value: 2
+Test Allocator: Construct, value: 3
+Test Allocator: Construct, value: 4
+Test Allocator: Construct, value: 5
+Content: 1 2 3 4 5
+Size: 5
+Capacity: 33
+Test Allocator: Destroy, value: 1
+Test Allocator: Destroy, value: 2
+Test Allocator: Destroy, value: 3
+Test Allocator: Destroy, value: 4
+Test Allocator: Destroy, value: 5
+Test Allocator: deallocate

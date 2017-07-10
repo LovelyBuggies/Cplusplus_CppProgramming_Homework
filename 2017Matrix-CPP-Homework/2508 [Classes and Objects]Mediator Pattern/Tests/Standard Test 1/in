@@ -1,0 +1,73 @@
+4
+
+linjian0 100
+5
+Dress_Blue 10
+Silk_stockings_Black 10
+Sailor_suit_Blue 10
+Nurse_suit_Blue 10
+Apron_dress_Blue 10
+
+linjian1 100
+5
+Dress_Blue 10
+Silk_stockings_Hollow 10
+Sailor_suit_Pink 10
+Nurse_suit_Pink 10
+Apron_dress_Pink 10
+linjian2 100
+5
+Dress 10
+Silk_stockings_Yellow 10
+Sailor_suit_Yellow 10
+Nurse_suit_Yellow 10
+Apron_dress_Yellow 10
+
++CLitleSister 100
+5
+Dress 10
+Silk_stockings_Fleshcolor 10
+Sailor_suit_Fleshcolor 10
+Nurse_suit_Fleshcolor 10
+Apron_dress_Fleshcolor 10
+
+0
+d 1
+
+1
+d 0
+
+2
+d 3
+
+3
+d 2
+
+0
+b
+Silk_stockings_Fleshcolor 20 3
+
+1
+d 0
+
+1 b
+Silk_stockings_Fleshcolor 100 0
+
+1 b
+Silk_stockings_Fleshcolor 100 0
+
+2 b
+Silk_stockings_Fleshcolor 10 3
+
+2 b
+Sailor_suit_Fleshcolor 8 3
+
+2 s
+3 I love you!
+
+3 s
+2 Get out of my way!
+
+
+
+-1

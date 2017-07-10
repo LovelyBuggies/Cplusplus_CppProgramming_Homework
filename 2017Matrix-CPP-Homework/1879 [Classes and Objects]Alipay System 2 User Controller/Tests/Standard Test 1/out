@@ -1,0 +1,247 @@
+Welcome to Alipay Managament System
+Please select your service using the number:
+[1] Create an user
+[2] Get an user's info by username
+[3] Get total user count
+[4] Remove one user
+[5] Set interest
+[6] Pay interest
+[7] withdraw(for one account)
+[8] deposite(for one account)
+[9] Display help info
+[0] Quit
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+fail to create user with username:mSWEsg password:mSWEsg
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input [username] [password]
+fail to create user with username:rZbw6Uq password:rZbw6Uq
+Alipay $ please input [username] [password]
+fail to create user with username:yG61VIx password:yG61VIx
+Alipay $ please input username
+remove user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input username
+remove user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input username
+remove user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input username
+remove user successfully!
+Alipay $ please input [username] [password]
+create user successfully!
+Alipay $ please input the new interest rate:
+set interest successfully
+Alipay $ please input the new interest rate:
+set interest successfully
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input the new interest rate:
+set interest successfully
+Alipay $ please input [username] [withdraw_amount]
+withdraw falied with amount:917.97
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input [username] [withdraw_amount]
+withdraw falied with amount:810.11
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input [username] [withdraw_amount]
+withdraw falied with amount:585.77
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input [username] [withdraw_amount]
+withdraw successfully!
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ pay interest compelete
+Alipay $ please input the new interest rate:
+set interest successfully
+Alipay $ pay interest compelete
+Alipay $ please input [username] [withdraw_amount]
+withdraw falied with amount:108.23
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input [username] [withdraw_amount]
+withdraw falied with amount:582.66
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input [username] [withdraw_amount]
+withdraw falied with amount:432.49
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input the new interest rate:
+set interest successfully
+Alipay $ pay interest compelete
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input the new interest rate:
+set interest successfully
+Alipay $ please input [username] [withdraw_amount]
+withdraw falied with amount:590.78
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input the new interest rate:
+set interest successfully
+Alipay $ please input [username] [withdraw_amount]
+withdraw successfully!
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input the new interest rate:
+set interest successfully
+Alipay $ please input [username] [withdraw_amount]
+withdraw successfully!
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input [username] [withdraw_amount]
+withdraw successfully!
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input [username] [withdraw_amount]
+withdraw falied with amount:818.49
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input [username] [withdraw_amount]
+withdraw successfully!
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input the new interest rate:
+set interest successfully
+Alipay $ please input [username] [withdraw_amount]
+withdraw falied with amount:984.48
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input [username] [withdraw_amount]
+withdraw falied with amount:237.27
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ pay interest compelete
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input [username] [withdraw_amount]
+withdraw successfully!
+Alipay $ please input [username] [deposite_amount]
+deposite successfully!
+Alipay $ please input username
+user info:
+username:cSuHNHJHNjCxChbw
+password:*********
+balance:0
+Alipay $ please input username
+user info:
+username:0eDbXPIEC21CJ27oR4
+password:*********
+balance:319.371
+Alipay $ please input username
+user info:
+username:OwJGuK5RuV76e
+password:*********
+balance:579.114
+Alipay $ please input username
+user info:
+username:1sMZV4DnMYDVnjovH
+password:*********
+balance:0
+Alipay $ please input username
+user info:
+username:RU5yQh7pWIKZ3
+password:*********
+balance:1292.59
+Alipay $ please input username
+user info:
+username:TSh358aAvDUJmrLI
+password:*********
+balance:475.779
+Alipay $ please input username
+user info:
+username:TsIYQDvZ4
+password:*********
+balance:0
+Alipay $ please input username
+user info:
+username:U8TusprDa
+password:*********
+balance:1152.94
+Alipay $ please input username
+user info:
+username:Or1RjDWODvnnqONsN
+password:*********
+balance:195.603
+Alipay $ please input username
+user info:
+username:m5ArXV5vwH5kHol
+password:*********
+balance:2214.73
+Alipay $ please input username
+user info:
+username:wfSg4a8tkf6JpV4Vxys
+password:*********
+balance:2301.06
+Alipay $ please input username
+user info:
+username:EXGfX1wTDaWloH
+password:*********
+balance:920.504
+Alipay $ please input username
+user info:
+username:Lkpjw1wEgsFH
+password:*********
+balance:111.07
+Alipay $ Total user count: 23
+Alipay $ Tanks for using Alipay, Bye!

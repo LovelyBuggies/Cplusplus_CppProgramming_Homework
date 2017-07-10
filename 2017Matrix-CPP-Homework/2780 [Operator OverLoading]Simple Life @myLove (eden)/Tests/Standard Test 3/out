@@ -1,0 +1,8 @@
+Foward test: kokopqt
+Backward test: tqpokok
+Self-Foward test: ok
+Self-Backward test: qt
+Compare test#1: 101011
+Compare test#2: 011100
+Move test: poo
+C++11 test: ktkkktpt

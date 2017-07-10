@@ -1,0 +1,22 @@
+test for select:
+Scv good to go, sir!
+My life for Aiur!
+~
+
+test for move:
+Worker moves to (2, 2)
+Zealot moves to (4, 4)
+Tower cannot move.
+
+test for attack:
+Zealot's hp is 9
+Tower's hp is 9
+
+test for repair:
+Zealot's hp is 10
+
+test for build:
+   *
+  ***
+ *****
+*******

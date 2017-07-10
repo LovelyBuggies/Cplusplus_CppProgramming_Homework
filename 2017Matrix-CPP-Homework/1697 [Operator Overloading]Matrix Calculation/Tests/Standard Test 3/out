@@ -1,0 +1,26 @@
+Mat1 = [
+15, 7
+23, 8
+]
+Mat2 = [
+4, 23
+22, 11
+]
+
+(Mat1 += Mat2) addition result:
+Mat1 = [
+19, 30
+45, 19
+]
+
+(Mat1 -= Mat2) substraction result:
+Mat1 = [
+15, 7
+23, 8
+]
+
+(Mat1 * Mat2) production result:
+newMat = [
+214, 422
+268, 617
+]

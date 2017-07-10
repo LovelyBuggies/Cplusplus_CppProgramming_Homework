@@ -1,0 +1,14 @@
+
+------ SCHOOL -----
+Person_0: 1, 2
+Person_1: 0
+Person_2: 0
+
+------ FAMILY_1 -----
+Person_0: 3
+Person_3: 0
+
+------ FAMILY_2 -----
+Person_1: 2, 4
+Person_2: 1, 4
+Person_4: 1, 2

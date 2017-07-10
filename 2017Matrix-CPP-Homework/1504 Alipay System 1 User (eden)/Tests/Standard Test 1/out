@@ -1,0 +1,20 @@
+Test1
+Pass	setting a legal username.v69v91Lk
+Pass	setting a legal password for a blank password.Xmd4sj7Eo4AA5
+Pass	setting a legal phone.8075771857259
+Pass	setting a legal gender: Male.
+Pass	username should be equal: (v69v91Lk,v69v91Lk).
+Pass	phone should be equal: (8075771857259,8075771857259).
+Pass	try to deposit.
+Pass	try to withdraw.
+
+Test2
+Pass	setting an illegal username.Alice*&(#*@/$
+Pass	setting an illegal phone.86241&??4
+Pass	setting an illegal password.,.)#]*<$[#>
+Pass	setting a new password using wrong old password.
+
+Test3
+Pass	try to cheat money using negative number.
+Pass	try to cheat money using loan which is not supported.
+

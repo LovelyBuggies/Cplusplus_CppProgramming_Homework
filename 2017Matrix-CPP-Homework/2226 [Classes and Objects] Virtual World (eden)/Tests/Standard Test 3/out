@@ -1,0 +1,12 @@
+
+------ G0 -----
+Person_0: null
+Person_1: null
+
+------ G1 -----
+Person_0: 3
+Person_3: 0
+
+------ G2 -----
+Person_3: null
+Person_4: null

@@ -1,0 +1,15 @@
+
+------ BAT -----
+Person_0: 1, 2
+Person_1: 0, 2
+Person_2: 0, 1
+
+------ ECommerce -----
+Person_0: 1, 2, 3
+Person_1: 0, 2, 3
+Person_2: 0, 1, 3
+Person_3: 0, 1, 2
+
+------ Security -----
+Person_4: 5
+Person_5: 4

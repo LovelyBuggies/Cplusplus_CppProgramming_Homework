@@ -1,0 +1,13 @@
+[0:234]->[1:23]->[2:23432]->[3:1]->[4:5]
+The number of job is: 5
+The number of job is: 4
+The number of job is: 3
+[2:23432]->[3:1]->[4:5]->[5:0]->[6:6666]
+The number of job is: 5
+empty!
+The number of job is: 0
+[11:66666]->[10:3343]->[7:23]->[9:2]->[8:0]
+[7:23]->[9:2]->[8:0]
+The number of job is: 3
+Delete successfully!
+Delete failure!

@@ -1,0 +1,29 @@
+Server: 114.114.114.114
+Name: www.baidu.com
+Address: 123.125.114.144
+Name: www.baidu.com
+Address: 220.181.57.217
+Name: www.baidu.com
+Address: 180.149.132.47
+Server: 114.114.114.114
+Server can't find www.google.com
+
+
+Server: 8.8.8.8
+Name: www.google.com
+Address: 173.194.117.180
+Name: www.google.com
+Address: 173.194.117.177
+Name: www.google.com
+Address: 173.194.117.176
+Name: www.google.com
+Address: 173.194.117.179
+Server: 8.8.8.8
+Server can't find www.google.com
+Server: 8.8.8.8
+Server can't find www.baidu.com
+
+
+Server: 8.8.4.4
+Name: www.baidu.com
+Address: 220.181.57.217

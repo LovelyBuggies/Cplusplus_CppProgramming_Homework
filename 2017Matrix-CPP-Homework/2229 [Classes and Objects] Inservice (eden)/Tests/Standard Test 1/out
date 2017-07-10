@@ -1,0 +1,16 @@
+Construct Person
+Construct Student
+Construct Worker
+Construct InService
+amblpo
+1
+amblpo
+1
+13154671
+amblpo
+1
+10814061
+Destruct InService
+Destruct Worker
+Destruct Student
+Destruct Person

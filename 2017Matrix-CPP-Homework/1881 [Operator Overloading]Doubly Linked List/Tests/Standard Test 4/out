@@ -1,0 +1,24 @@
+NULL<-150<->1<->2<->111<->3<->4<->5->NULL size:7 front:150 back:5
+NULL<-150<->1<->2<->111<->3<->4<->5->NULL size:7 front:150 back:5
+
+NULL<-2<->4->NULL size:2 front:2 back:4
+
+NULL<-1<->2<->3<->4<->5->NULL size:5 front:1 back:5
+NULL<-1<->2<->3<->4<->5->NULL size:5 front:1 back:5
+NULL size:0 front:NULL back:NULL
+NULL<-1<->2<->3<->4<->5->NULL size:5 front:1 back:5
+NULL<-1<->2<->3<->4<->5->NULL size:5 front:1 back:5
+NULL<-1<->2<->3<->4<->5->NULL size:5 front:1 back:5
+NULL size:0 front:NULL back:NULL
+NULL<-1<->2->NULL
+NULL<-3<->4<->5->NULL
+NULL<-1<->2<->3<->4<->5<->1<->2<->3<->4<->5<->1<->2<->3<->4<->5->NULL size:15 front:1 back:5
+1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 3 4 5 
+NULL<-1<->2<->3<->4<->5<->1<->2<->3<->4<->5<->1<->2<->3<->4<->5<->3<->4<->5<->3<->4<->5->NULL size:21 front:1 back:5
+
+
+NULL 
+NULL<-2<->4->NULL
+NULL size:0 front:NULL back:NULL
+
+NULL<-1<->2<->3<->4<->5->NULL size:5 front:1 back:5

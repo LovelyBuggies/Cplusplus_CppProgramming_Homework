@@ -1,0 +1,11 @@
+course:
+  name:
+    C++
+  assignment:
+    title:
+      Simple Markup Language Parser
+    submission:
+      answer:
+        answer
+      support:
+        main.cpp

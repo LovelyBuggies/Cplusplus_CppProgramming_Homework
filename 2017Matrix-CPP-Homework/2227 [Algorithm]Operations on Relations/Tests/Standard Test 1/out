@@ -1,0 +1,160 @@
+TEST BOOLEAN MATRIX
+1 0 1 1 0 
+0 0 0 1 1 
+0 0 0 1 0 
+1 1 1 0 1 
+0 0 0 0 1 
+
+1 1 1 1 0 
+0 0 0 0 0 
+1 1 1 0 0 
+0 1 0 1 0 
+1 1 1 1 1 
+
+0 0 1 1 0 0 1 0 
+1 0 1 1 1 0 0 1 
+0 0 1 1 1 0 0 1 
+1 1 1 1 1 1 1 0 
+0 0 0 1 0 1 1 1 
+
+1 1 1 1 0 
+0 0 0 1 1 
+1 1 1 1 0 
+1 1 1 1 1 
+1 1 1 1 1 
+
+1 0 1 1 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 1 0 0 0 
+0 0 0 0 1 
+
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 0 
+1 0 1 1 1 1 1 1 
+0 0 0 1 0 1 1 1 
+TEST BinaryRelation
+matrix:
+0 1 0 0 
+0 0 0 1 
+0 0 0 0 
+1 0 1 0 
+
+set:
+{-131, -164, 86, -170}
+
+-170's in degree: 1
+86's out degree: 0
+0 1 0 0 
+0 0 0 1 
+0 0 0 0 
+1 0 1 0 
+
+reflexvie: 0
+reflexvie: 0
+irreflexvie: 1
+irreflexvie: 1
+symmetric: 0
+symmetric: 0
+Asymmetric: 1
+Asymmetric: 1
+Antisymmetric: 1
+Antisymmetric: 1
+transitive: 0
+transitive: 0
+Equivalence: 0
+Equivalence: 0
+reflexive closure: 
+1 1 0 0 
+0 1 0 1 
+0 0 1 0 
+1 0 1 1 
+reflexvie: 1
+symmetric closure: 
+0 1 0 1 
+1 0 0 1 
+0 0 0 1 
+1 1 1 0 
+symmetric: 1
+transitive closure: 
+1 1 1 1 
+1 1 1 1 
+0 0 0 0 
+1 1 1 1 
+transitive: 1
+composition: 
+0 0 0 1 
+1 0 1 0 
+0 0 0 0 
+0 1 0 0 
+test relation
+matrix1:
+0 1 1 
+1 0 0 
+1 1 0 
+0 1 1 
+0 0 1 
+0 1 0 
+0 0 1 
+1 0 0 
+
+matrix2:
+1 1 1 
+1 1 0 
+1 1 0 
+1 0 0 
+0 0 0 
+1 0 0 
+1 1 0 
+0 0 1 
+
+0 1 1 
+1 0 0 
+1 1 0 
+0 1 1 
+0 0 1 
+0 1 0 
+0 0 1 
+1 0 0 
+
+1 1 1 
+1 1 0 
+1 1 0 
+1 0 0 
+0 0 0 
+1 0 0 
+1 1 0 
+0 0 1 
+
+1 0 0 
+0 1 1 
+0 0 1 
+1 0 0 
+1 1 0 
+1 0 1 
+1 1 0 
+0 1 1 
+
+0 1 1 0 0 0 0 1 
+1 0 1 1 0 1 0 0 
+1 0 0 1 1 0 1 0 
+
+0 1 1 
+1 0 0 
+1 1 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+
+1 1 1 
+1 1 0 
+1 1 0 
+1 1 1 
+0 0 1 
+1 1 0 
+1 1 1 
+1 0 1 
+

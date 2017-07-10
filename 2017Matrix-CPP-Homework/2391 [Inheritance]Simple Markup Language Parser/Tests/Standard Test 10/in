@@ -1,0 +1,10 @@
+<course>
+  <name>C++</name>
+  <assignment>
+    <title>Simple Markup Language Parser</title>
+    <submission>
+      <answer>answer</answer>
+      <support>main.cpp</support>
+    </submission>
+  </assignment>
+</course>

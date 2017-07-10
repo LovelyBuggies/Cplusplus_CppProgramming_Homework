@@ -1,0 +1,26 @@
+---------- test_HFM ----------
+# TEST_1
+Weight = 2; Code = 001
+Weight = 4; Code = 000
+Weight = 5; Code = 01
+Weight = 7; Code = 1
+Huffman's codeLength = 35
+
+TEST_2
+(h) Weight = 1; Code = 00011
+(i) Weight = 1; Code = 00010
+(l) Weight = 1; Code = 00001
+(m) Weight = 1; Code = 00000
+(n) Weight = 1; Code = 1111
+(o) Weight = 1; Code = 1110
+(r) Weight = 1; Code = 1101
+(s) Weight = 1; Code = 1100
+(t) Weight = 1; Code = 0111
+(u) Weight = 1; Code = 0110
+(a) Weight = 2; Code = 0011
+(p) Weight = 2; Code = 0010
+(y) Weight = 3; Code = 010
+(e) Weight = 5; Code = 10
+Huffman's codeLength = 79
+Origin Text: youaretheappleinmyeyes
+Huffman's Code: 0101110011000111101100111000111000110010001000001100001011110000001010010101100
