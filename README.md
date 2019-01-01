@@ -1,4 +1,4 @@
-## Public Code for SYSU Cplusplus 2017 - Matrix Homework.
+## Public Code for SYSU Cplusplus Homework 2017 - on Matrix.
 
 ### Abstract
 
