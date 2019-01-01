@@ -4,11 +4,9 @@
 
 * Cplusplus homework Repository for Sun-Yet-Sen University Freshmen used for prerequisites or C++ programming courses.
 
-* This is only a reference for Primary CPP learner and **May Have Bugs**.
+* This is only a reference for Primary CPP learner and may have a little bugs, if you have better solutions, welcome to issue.
 
 * If you find any bugs in this repository, welcome to send an e-mail to open an issue or pull request.
-
-* **Atention please*!!!** Do not try to copy this task, for the **Powful Copy Plagiarism Function** of Matrix.
 
 ### Structure
 
